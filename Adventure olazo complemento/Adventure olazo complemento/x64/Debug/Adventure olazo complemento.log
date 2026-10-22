@@ -1,0 +1,58 @@
+﻿  Character.cpp
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Character.h(9,32): error C2039: 'level': is not a member of 'Character'
+  (compiling source file 'Character.cpp')
+      C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Character.h(2,7):
+      see declaration of 'Character'
+  
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Character.cpp(15,16): error C2039: 'hp': is not a member of 'Character'
+      C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Character.h(2,7):
+      see declaration of 'Character'
+  
+  Enemy.cpp
+  Event.cpp
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Event.cpp(26,17): error C2065: 'p': undeclared identifier
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Event.cpp(52,14): error C2065: 'p': undeclared identifier
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Event.cpp(89,34): error C2059: syntax error: ')'
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Event.cpp(90,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Event.cpp(114,9): error C2065: 'baseEnemy': undeclared identifier
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Event.cpp(118,29): error C2065: 'baseEnemy': undeclared identifier
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Event.cpp(128,7): error C2065: 'p': undeclared identifier
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Event.cpp(128,20): error C2065: 'baseEnemy': undeclared identifier
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Event.cpp(140,7): error C2065: 'p': undeclared identifier
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Event.cpp(140,20): error C2065: 'baseEnemy': undeclared identifier
+  Game.cpp
+  Player.cpp
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Player.h(7,18): error C2561: 'Player::GetLuck': function must return a value
+  (compiling source file 'Player.cpp')
+      C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Player.h(7,6):
+      see declaration of 'Player::GetLuck'
+  
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Player.h(9,23): error C2561: 'Player::GetDexterity': function must return a value
+  (compiling source file 'Player.cpp')
+      C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Player.h(9,6):
+      see declaration of 'Player::GetDexterity'
+  
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Player.h(11,22): error C2561: 'Player::GetStrenght': function must return a value
+  (compiling source file 'Player.cpp')
+      C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Player.h(11,6):
+      see declaration of 'Player::GetStrenght'
+  
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Player.h(13,26): error C2561: 'Player::GetIntelligence': function must return a value
+  (compiling source file 'Player.cpp')
+      C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Player.h(13,6):
+      see declaration of 'Player::GetIntelligence'
+  
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Player.h(15,21): error C2561: 'Player::GetAgility': function must return a value
+  (compiling source file 'Player.cpp')
+      C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Player.h(15,6):
+      see declaration of 'Player::GetAgility'
+  
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Player.cpp(3,13): error C2084: function 'int Player::GetLuck(void)' already has a body
+      C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Player.h(7,6):
+      see previous definition of 'Player::GetLuck'
+  
+C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Player.cpp(8,14): error C2511: 'void Player::SetLuck(void)': overloaded member function not found in 'Player'
+      C:\Users\Alumno\source\repos\Adventure olazo complemento\Adventure olazo complemento\Player.h(2,7):
+      see declaration of 'Player'
+  
+  Generating Code...

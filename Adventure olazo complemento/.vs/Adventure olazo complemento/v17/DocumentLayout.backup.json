@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|solutionrelative:Adventure olazo complemento\\Event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|solutionrelative:Adventure olazo complemento\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|solutionrelative:Adventure olazo complemento\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|solutionrelative:Adventure olazo complemento\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Adventure olazo complemento.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|solutionrelative:Adventure olazo complemento\\Adventure olazo complemento.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|solutionrelative:Adventure olazo complemento\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|solutionrelative:Adventure olazo complemento\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|solutionrelative:Adventure olazo complemento\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|solutionrelative:Adventure olazo complemento\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22B5107C-52C2-42F2-9150-3CDF6E172729}|Adventure olazo complemento\\Adventure olazo complemento.vcxproj|solutionrelative:Adventure olazo complemento\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 277,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Adventure olazo complemento.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Adventure olazo complemento.cpp",
+              "RelativeDocumentMoniker": "Adventure olazo complemento\\Adventure olazo complemento.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Adventure olazo complemento.cpp",
+              "RelativeToolTip": "Adventure olazo complemento\\Adventure olazo complemento.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T15:19:48.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Event.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Event.cpp",
+              "RelativeDocumentMoniker": "Adventure olazo complemento\\Event.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Event.cpp",
+              "RelativeToolTip": "Adventure olazo complemento\\Event.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T15:26:28.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Character.cpp",
+              "RelativeDocumentMoniker": "Adventure olazo complemento\\Character.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Character.cpp",
+              "RelativeToolTip": "Adventure olazo complemento\\Character.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T15:37:22.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Player.cpp",
+              "RelativeDocumentMoniker": "Adventure olazo complemento\\Player.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Player.cpp",
+              "RelativeToolTip": "Adventure olazo complemento\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T15:45:52.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Game.cpp",
+              "RelativeDocumentMoniker": "Adventure olazo complemento\\Game.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Game.cpp",
+              "RelativeToolTip": "Adventure olazo complemento\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T17:13:53.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 277,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Player.h",
+              "RelativeDocumentMoniker": "Adventure olazo complemento\\Player.h",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Player.h",
+              "RelativeToolTip": "Adventure olazo complemento\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-22T15:45:12.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Event.h",
+              "RelativeDocumentMoniker": "Adventure olazo complemento\\Event.h",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Event.h",
+              "RelativeToolTip": "Adventure olazo complemento\\Event.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-22T15:20:20.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Character.h",
+              "RelativeDocumentMoniker": "Adventure olazo complemento\\Character.h",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Character.h",
+              "RelativeToolTip": "Adventure olazo complemento\\Character.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-22T15:36:04.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Enemy.h",
+              "RelativeDocumentMoniker": "Adventure olazo complemento\\Enemy.h",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Enemy.h",
+              "RelativeToolTip": "Adventure olazo complemento\\Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-22T15:31:37.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Game.h",
+              "RelativeDocumentMoniker": "Adventure olazo complemento\\Game.h",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Adventure olazo complemento\\Adventure olazo complemento\\Game.h",
+              "RelativeToolTip": "Adventure olazo complemento\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-22T17:12:43.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
